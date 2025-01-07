@@ -1,4 +1,16 @@
-Name- HARSHITA SINHA Company- CODSOFT ID- CS24NY355812 Domain- Java Programming Duration- 15 December 2024 to 15 January 2025
+Name- HARSHITA SINHA 
+
+
+Company- CODSOFT 
+
+
+ID- CS24NY355812 
+
+
+Domain- Java Programming 
+
+
+Duration- 15 December 2024 to 15 January 2025
 
 Overview of the Project Project- Guess The Number Game
 
